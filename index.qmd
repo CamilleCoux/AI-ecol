@@ -5,9 +5,8 @@ toc: true
 # Welcome {.unnumbered}
 
 ::: {.callout-note}
-## Registrations for the 2024 session are not yet open
+## Registrations for the 2025 session are not yet open
 
-Registrations open each spring and the training course takes place during fall. 
 
 {{< fa hand-point-right >}}&nbsp; Subscribe to the 
 [FRB-CESAB newsletter](https://www.fondationbiodiversite.fr/en/newsletter/) 
@@ -16,53 +15,39 @@ to stay informed. More information is available on the [FRB-CESAB website](https
 
 
 
-This five-day training course, co-organized by the [FRB-CESAB](https://www.fondationbiodiversite.fr/en/about-the-foundation/le-cesab/), the [PNDB](https://www.pndb.fr/), and [GBIF France](http://www.gbif.fr/) aims to work on the different stages of the data cycle, from acquisition to opening, including management, storage and the drafting of data papers.
-
-We will 1) contextualize the issues surrounding the understanding, sharing and (re)use of biodiversity data and metadata, and 2) enhance the skills of communities involved in one or more stages of the data cycle.
+This five-day training course, organized by the [FRB-CESAB](https://www.fondationbiodiversite.fr/en/about-the-foundation/le-cesab/) aims to initiate ecologists to AI concepts and tools. The course will be a mix of lectures and hands-on practice based on different data types commonly encountered in ecology. The main objective of the course is to give to the participants the autonomy that will allow them to assess which algorithms are most adapted to their own research questions, where to find them and how to adjust them to the desired question. 
 
 
 
 ## Program {.unnumbered}
 
-**Introduction and overview**
+**Introduction and overview of main AI concepts**
 
-- What is data/metadata?
-- Major types of biodiversity data
-- The data ecosystem in France and in research
-- The data cycle
-- Achieving a high degree of FAIRification
-- Current challenges (in research and beyond)
 
-**Data acquisition**
+**Introduction to data science**
 
-- Best practices for data collection (field, laboratory, etc.)
-- Access to existing data (APIs, web scraping, text mining, etc.)
-- Raw data vs. derived data
 
-**Data management**
+**Random forest and regression**
 
-- Structuring (SQL, CSV files, etc.)
-- Processing, cleansing and homogenization
 
-**Legal aspects**
+**Multilayer Perceptron**
 
-- Sharing, licensing, etc.
 
-**Opening data**
+**Convolutional Neural Networks**
 
-- Data management plan
-- (Meta)data: standards
-- Storage and archiving
-- Dissemination and sharing
-- Enhancing value: The data paper
+
+**Symbolic AI**
 
 
 ## Prerequisites {.unnumbered}
 
-{{< fa hand-point-right >}}&nbsp; Please follow this [tutorial](https://frbcesab.github.io/rsetup/) to install 
-your working environment **before attending the training course**.
+You must have a strong programming background, at least in R. 
 
-{{< fa hand-point-right >}}&nbsp; You also need to create an account on [GitHub](https://github.com/signup/) (please edit your profile and enter your name).
+Familiarity with Python is preferred, but not mandatory. In fact, to make sure that we all start on similar bases, we require that you follow these tutorials (list coming soon) **before attending the training course**.
+
+{{< fa hand-point-right >}}&nbsp; Point at tutorial
+
+ 
 
 
 ## Material {.unnumbered}
